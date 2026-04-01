@@ -25,11 +25,11 @@
 <div align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LashminiAD&theme=dark&hide_border=true&stroke=FFFFFF" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=LashminiAD&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%"/>
-
 </div>
 
 <div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=LashminiAD&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LashminiAD&layout=compact&theme=dark&hide_border=true" width="40%"/>
 
