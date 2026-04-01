@@ -23,8 +23,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LashminiAD&theme=dark&hide_border=true&stroke=FFFFFF" width="49%"/>
+  
+  <img src= "https://github-readme-streak-stats.herokuapp.com/?user=LashminiAD&theme=dark&hide_border=true"/>
 </div>
 
 <div align="center">
