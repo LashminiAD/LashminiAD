@@ -139,6 +139,7 @@
 </div>
 
 ---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -148,6 +149,7 @@
     <img alt="contribution snake" src="https://raw.githubusercontent.com/LashminiAD/LashminiAD/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
+
 ---
 
 ## 🔄 Current Status
