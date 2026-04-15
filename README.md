@@ -139,6 +139,16 @@
 </div>
 
 ---
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LashminiAD/LashminiAD/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LashminiAD/LashminiAD/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/LashminiAD/LashminiAD/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+---
 
 ## 🔄 Current Status
 
@@ -163,6 +173,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
  
 </p>
+
 
 <div align="center">
   Made with ❤️ by Lashmini Anand
