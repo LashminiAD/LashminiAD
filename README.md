@@ -19,20 +19,21 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  <img src= "https://github-readme-streak-stats.herokuapp.com/?user=LashminiAD&theme=dark&hide_border=true"/>
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=LashminiAD&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LashminiAD&layout=compact&theme=dark&hide_border=true" width="40%"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LashminiAD&theme=dark&hide_border=true" />
+  <br/><br/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=LashminiAD&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LashminiAD&layout=compact&theme=dark&hide_border=true"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
