@@ -76,26 +76,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛒 E-Commerce Engine
-**Full-Stack Payment Processing Platform**
-- Scalable REST APIs with **JWT authentication** and **RBAC-based access control**
-- Integrated **Stripe + Razorpay** for secure, ACID-compliant transactions
-- Achieved **25% API performance improvement** through query optimization
-
-### 🤖 Jarvis AI Assistant
-**Real-time Voice AI powered by Gemini API**
-- Served **500+ weekly active users** with low-latency voice processing
-- Built on a modular AI architecture for extensibility and maintainability
-
-### ✅ To-Do List App
-**Lightweight Task Manager with Local Storage**
-- Clean, responsive UI with **auto-save functionality**
-- Efficient daily task tracking with zero backend dependency
-
----
-
 ## 💼 Experience
 
 **Full Stack Developer Intern & Team Lead** — Chennai
