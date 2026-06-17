@@ -41,7 +41,7 @@
 ## 🎯 About Me
 
 - 🔧 **Full Stack Developer** with a focus on scalable backend systems
-- 🧠 **890+ DSA problems** solved across competitive platforms
+- 🧠 Solving DSA problems on LeetCode · HackerRank · SkillRack
 - 🔐 Passionate about **clean architecture, security & performance**
 - 💡 Love building products that solve real-world problems
 - 📍 Based in **Chennai, India**
@@ -55,7 +55,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -66,10 +65,6 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -80,8 +75,12 @@
 
 **Full Stack Developer Intern & Team Lead** — Chennai
 - Led a team of **4 developers** to deliver production-ready features
+- Built virtual intranet platform with React.js, Node.js, PostgreSQL
+- Implemented Role-Based Access Control (RBAC) for secure login
 - Improved API response performance by **25%**
 - Designed and implemented **JWT + RBAC** security architecture
+ **AI Intern** — Infosys Springboard 7.0
+- Currently exploring AI integrations and Generative AI applications
 
 ---
 
