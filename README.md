@@ -1,133 +1,60 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Lashmini%20Anand&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Lashmini%20Anand&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7FF&size=22&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+Focused+Engineer;DSA+Problem+Solver+%7C+890%2B+Problems;Building+Scalable+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7FF&size=20&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+MERN+Stack;Open+to+Opportunities"/>
 </p>
 
 <p align="center">
-  🚀 Full Stack Developer &nbsp;|&nbsp; 🎯 DSA Enthusiast &nbsp;|&nbsp; 🔐 Backend Focused &nbsp;|&nbsp; 🎓 CSE (IoT) Student
+  👩‍💻 Full Stack Developer &nbsp;|&nbsp; 🔐 Backend Focused &nbsp;|&nbsp; 🎓 Final Year CSE (IoT)
+  <br/>
+  📍 Chennai, India &nbsp;|&nbsp; 🚀 Open to Opportunities
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LashminiAD&color=00adb5&style=flat-square&label=Profile+Views"/>
-  &nbsp;
-  <a href="https://github.com/LashminiAD">
-    <img src="https://img.shields.io/github/followers/LashminiAD?label=Followers&style=social"/>
-  </a>
 </p>
-
----
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LashminiAD&theme=dark&hide_border=true" />
-  <br/><br/>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=LashminiAD&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LashminiAD&layout=compact&theme=dark&hide_border=true"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🎯 About Me
-
-- 🔧 **Full Stack Developer** with a focus on scalable backend systems
-- 🧠 Solving DSA problems on LeetCode · HackerRank · SkillRack
-- 🔐 Passionate about **clean architecture, security & performance**
-- 💡 Love building products that solve real-world problems
-- 📍 Based in **Chennai, India**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 💼 Experience
-
-**Full Stack Developer Intern & Team Lead** — Chennai
-- Led a team of **4 developers** to deliver production-ready features
-- Built virtual intranet platform with React.js, Node.js, PostgreSQL
-- Implemented Role-Based Access Control (RBAC) for secure login
-- Improved API response performance by **25%**
-- Designed and implemented **JWT + RBAC** security architecture
- **AI Intern** — Infosys Springboard 7.0
-- Currently exploring AI integrations and Generative AI applications
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![Badge](https://img.shields.io/badge/890+-DSA%20Problems%20Solved-brightgreen?style=for-the-badge)
-![Badge](https://img.shields.io/badge/HackerRank-4⭐%20Java-blueviolet?style=for-the-badge)
-![Badge](https://img.shields.io/badge/NPTEL-Elite%20Certified-blue?style=for-the-badge)
-![Badge](https://img.shields.io/badge/Technical-Speaker-orange?style=for-the-badge)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
 ## 🔗 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lashminianand)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Lashmini_A_D/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/lashminianand25)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LashminiAD&theme=react-dark&hide_border=true)](https://github.com/LashminiAD)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lashminianand">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Lashmini_A_D/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/lashminianand25">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 GitHub Stats
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LashminiAD/LashminiAD/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LashminiAD/LashminiAD/output/github-contribution-grid-snake.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/LashminiAD/LashminiAD/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LashminiAD&theme=dark&hide_border=true"/>
+</p>
 
 ---
 
@@ -143,19 +70,5 @@
 ---
 
 <p align="center">
-  <b>"Small disciplines repeated daily lead to great achievements."</b>
-</p>
-
-<p align="center">
-  ⭐️ If you find my work useful, consider starring my repositories!
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
- 
 </p>
-
-
-<div align="center">
-  Made with ❤️ by Lashmini Anand
-</div>
