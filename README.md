@@ -56,16 +56,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LashminiAD&theme=dark&hide_border=true"/>
 </p>
 
----
-
-## 🔄 Current Status
-
-```diff
-+ Building   : Full Stack & Backend Applications
-+ Learning   : System Design & Distributed Systems
-+ Focus      : Backend Engineering + DSA
-+ Status     : Open to Opportunities
-```
 
 ---
 
